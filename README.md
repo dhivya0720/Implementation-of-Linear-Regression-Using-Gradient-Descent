@@ -86,7 +86,7 @@ print("Final bias (b):", b)
 
 ## Output:
 <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/c1f3df25-1272-44e7-ad8a-efa1f5a85dd5" />
-<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/86e99401-8c69-43cb-8834-bda3ab911972" />
+
 
 Final weight (w): 33671.51979690389
 Final bias (b): 97157.57273469678
